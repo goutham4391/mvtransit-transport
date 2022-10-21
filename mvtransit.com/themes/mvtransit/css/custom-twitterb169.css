@@ -1,0 +1,7 @@
+.timeline-Header, .timeline-Footer {
+  display: none !important;
+}
+#twitter-widget-0 {
+  background-color: #ffffff;
+  height: 325px !important;
+}
